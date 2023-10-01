@@ -47,6 +47,3 @@ This Beginner level game, Tictactoe is developed using basic python, where the u
 
     The game continues until there is a winner, and the loop is exited.
 
-# ScreenShots 📸
-![tic1](https://github.com/Thisisamulya/tictactoe/assets/128579615/b576eafb-584d-43e3-be82-bf9d9d439b18)
-![tic2](https://github.com/Thisisamulya/tictactoe/assets/128579615/3f72b242-8b49-42d1-a773-7dfa3f56150e)
